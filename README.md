@@ -1,4 +1,7 @@
-## Just wan to Save this BuzzWord it will probebley raised someday 
+## Just want to Save this BuzzWord it will probebley raised someday . 
+## so i want to be the first 
+
+thanks Havatz
 
 You can use the [editor on GitHub](https://github.com/ntedgi/reactgular/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
